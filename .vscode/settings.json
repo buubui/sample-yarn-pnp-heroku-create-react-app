@@ -1,0 +1,8 @@
+{
+  "git.ignoreLimitWarning": true,
+  "eslint.packageManager": "yarn",
+  "eslint.enable": true,
+  "eslint.nodePath": ".vscode/pnpify",
+  "editor.formatOnSave": false,
+  "eslint.autoFixOnSave": false
+}
